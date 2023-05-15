@@ -54,6 +54,7 @@ void draw() {
   text(score.max(), 125, 45);
 }
 
+//edit stuff
 //void keyPressed() {
 //  if (key == ' ') {
 //    for (int i = 0; i < 100; i++) {
